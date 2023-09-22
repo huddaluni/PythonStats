@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 For this tutorial I have used Global Youtube statistics data from Kaggle, You can download it via this link: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
 
-Or you can also find the .csv in this repository along with the complete codes, this .py file contains instrustions of all codes with # and markdown cells, Good luck! Happy learning.
+Or you can also find the .csv in this repository along with the complete codes, this .py file contains instructions of all codes with # and markdown cells, Good luck! Happy learning.
 
 Here is a quick review of the basic concepts:     
 

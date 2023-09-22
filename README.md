@@ -14,12 +14,17 @@ Here is a quick review of the basic concepts:
 I will help explain this with the Kaggle's Global YouTube Statistics, you would need to refer to the csv here onwards
 
 ## A- Quantitative Variables:
+A quantitative variable, also known as a numeric variable, is a type of variable that represents data with numerical values.  
 
 ### 1. Discrete Variables:
+A discrete variable is a type of quantitative variable that takes on a finite or countable number of distinct values.
+
 **rank**: *The ranking of the YouTube channel (e.g., 1, 2, 3).*
 **uploads**: *The number of video uploads on the channel.*
 
 ### 2. Continuous Variables:
+A continuous variable is a type of quantitative variable that can take on an infinite number of values within a certain range.  
+
 **subscribers**: *The number of subscribers to the channel.*
 **video views**: *The total number of video views for the channel.*
 **subscribers_for_last_30_days**: *Subscribers gained in the last 30 days.*
@@ -31,8 +36,12 @@ I will help explain this with the Kaggle's Global YouTube Statistics, you would 
 **Longitude**: *Longitude of the channel's location.*
 
 ## B- Qualitative Variables:
+A qualitative variable, also known as a categorical variable, is a type of variable that represents data with categories, labels, or names.   
+
 
 ### 1. Nominal Variables:
+A nominal variable is a type of qualitative (categorical) variable that represents data with categories, labels, or names that have no inherent order or ranking.   
+
 **Youtuber**: The name of the YouTube channel.
 **category**: The category to which the channel belongs (e.g., Music, **Entertainment**, Education).
 **Title**: The title of the channel.
@@ -40,7 +49,8 @@ I will help explain this with the Kaggle's Global YouTube Statistics, you would 
 **Abbreviation**: The abbreviation of the country.
 **channel_type**: The type of channel (e.g., Music, Games, Entertainment).
 
-### 2. Ordinal Variables:
+### 2. Ordinal Variables:  
+An ordinal variable is a type of qualitative (categorical) variable that represents data with categories or labels that have a meaningful order or ranking.  
 **created_year**: The year the channel was created.
 **created_month**: The month the channel was created.
 **created_date**: The date the channel was created.

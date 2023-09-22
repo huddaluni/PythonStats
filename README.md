@@ -8,6 +8,65 @@ Or you can also find the .csv in this repository along with the complete codes, 
 Here is a quick review of the basic concepts:     
 
 ***************************************************************************************************
+
+
+# Data structures:
+I will help explain this with the Kaggle's Global YouTube Statistics, you would need to refer to the csv here onwards
+
+## A- Quantitative Variables:
+
+### 1. Discrete Variables:
+**rank**: *The ranking of the YouTube channel (e.g., 1, 2, 3).*
+**uploads**: *The number of video uploads on the channel.*
+
+### 2. Continuous Variables:
+**subscribers**: *The number of subscribers to the channel.*
+**video views**: *The total number of video views for the channel.*
+**subscribers_for_last_30_days**: *Subscribers gained in the last 30 days.*
+**Gross tertiary education enrollment (%)**: *Tertiary education enrollment percentage.*
+**Population**: *Total population.*
+**Unemployment rate**: *The unemployment rate.*
+**Urban_population**: *Urban population count.*
+**Latitude**: *Latitude of the channel's location.*
+**Longitude**: *Longitude of the channel's location.*
+
+## B- Qualitative Variables:
+
+### 1. Nominal Variables:
+**Youtuber**: The name of the YouTube channel.
+**category**: The category to which the channel belongs (e.g., Music, **Entertainment**, Education).
+**Title**: The title of the channel.
+**Country**: The country where the channel is based.
+**Abbreviation**: The abbreviation of the country.
+**channel_type**: The type of channel (e.g., Music, Games, Entertainment).
+
+### 2. Ordinal Variables:
+**created_year**: The year the channel was created.
+**created_month**: The month the channel was created.
+**created_date**: The date the channel was created.
+
+
+
+# Variable Types:
+
+1. Dependent Variable or Target Variable  
+This is the variables we are trying to find the outcome for   
+
+2. Independent Variable or Feature Variable   
+This is the variable we are using as inputs for the outcome varibale and determining thier impacts on our target variable  
+
+3. Categorical Variable  
+Variable holding Qualitative data  
+  
+4. Continuous Variable  
+variable holding Quantitative data  
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
 ## Measures of central Tendencies:
 Mean   = sum of all values/ number of all values   
 Median = middle value 
